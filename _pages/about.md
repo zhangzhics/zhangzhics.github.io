@@ -11,14 +11,8 @@ redirect_from:
 {% include base_path %}
 
  
-<sub> I’m a Lecturer at [Monash University](https://www.monash.edu/) in the [Faculty of Information Technology](https://www.monash.edu/it). I obtained my PhD degree from [the University of Auckland](https://www.auckland.ac.nz/en.html) in 2019. Before joining Monash University, I was a Post-Doc researcher in the [Large-Scale Data & Systems (LSDS) group](https://lsds.doc.ic.ac.uk/) in the Department of Computing at Imperial College London, UK.  
+<sub> I'm a permanent Research Scientist at CSIRO's Data61, Australia. I received my Bachelor degree from Sichuan University, Master degree from Peking University, China and Ph.D. in Computer Science from the University of New South Wales, Australia, respectively. My research interests are in the areas of system security, rowhammer, and adversarial artificial intelligence.
 
-### My research
-<sub>My main research interests include applied cryptography, information security in cloud computing and distributed systems, trusted execution environments, side-channel attacks, and privacy-preserving machine learning.
-
-
-**<font color="red">I am always looking for self-motivated students.</font>**
-<sub> Please email me your CV, transcript, research statement, english test score.</sub>
 
 ### News!
 - <sub>Our paper "EnclaveTree: : Privacy-preserving Data Stream Training and Inference Using TEE" has been accepted by AsiaCCS 2022. Congratulations to Qifan!
