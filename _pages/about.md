@@ -1,24 +1,41 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - "/wordpress/"
+  - "/wordpress/index.html"
 ---
 
-<p>
-<font size=5>I am now leading the <a href="https://zip-group.github.io/">Zhuang Intelligent Processing Group</a></font>.
-</p>
+{% include base_path %}
 
-<table><tr><td bgcolor=yellow> I am now recruiting 1-2 CSC students. If you are interested pls drop me an email.</td></tr></table>
+ 
+<sub> I’m a Lecturer at [Monash University](https://www.monash.edu/) in the [Faculty of Information Technology](https://www.monash.edu/it). I obtained my PhD degree from [the University of Auckland](https://www.auckland.ac.nz/en.html) in 2019. Before joining Monash University, I was a Post-Doc researcher in the [Large-Scale Data & Systems (LSDS) group](https://lsds.doc.ic.ac.uk/) in the Department of Computing at Imperial College London, UK.  
 
-During my PhD, I was honored to be advised by [Prof. Chunhua Shen](https://cshen.github.io/) and [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/).
-During my undergraduate, I was advised by [Prof. Huchuan Lu](https://www.google.com/search?q=huchuan+lu&oq=huchuan+lu&aqs=chrome..69i57j0i22i30l5.1619j0j7&sourceid=chrome&ie=UTF-8).
+### My research
+<sub>My main research interests include applied cryptography, information security in cloud computing and distributed systems, trusted execution environments, side-channel attacks, and privacy-preserving machine learning.
 
 
-My main research topic is on compressing and accelerating deep neural networks for resource constrained edge devices. I also focus on a wide span of applications in Machine Learning and Computer Vision.  
+**<font color="red">I am always looking for self-motivated students.</font>**
+<sub> Please email me your CV, transcript, research statement, english test score.</sub>
 
-Apart from academic, I'm a music enthusiast and have been playing piano since 4 years old.
+### News!
+- <sub>Our paper "EnclaveTree: : Privacy-preserving Data Stream Training and Inference Using TEE" has been accepted by AsiaCCS 2022. Congratulations to Qifan!
+- <sub>Our paper "Scalable Private Decision Tree Evaluation with Sublinear Communication" has been accepted by AsiaCCS 2022. Congratulations to Jianli!
+- <sub>Our paper "We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption" has been accepted by Euro S&P 2022. Congratulations to Dandan!</sub>  
+
+### PhD Students
+- <sub>Dandan Yuan (2019-), The Univerisity of Auckland (co-supervised with [Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
+- <sub>Qifan Wang (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
+- <sub>Jianli Bai (2019-), The Univerisity of Auckland (co-supervised with Giovanni Russello)
+- <sub>Chin Yong Tan (2021-), Monash University Malaysia (co-supervised with [Prof Raphaël Phan](https://www.monash.edu.my/IT/staff/academic/prof-raphael-phan))
+</sub> 
+  
+### Teaching
+- <sub>2022 S1, Lecturer, FIT5163-Information & Computer Security
+- <sub>2021 S1, Lecturer, FIT5163-Information & Computer Security
+
+
+
 
