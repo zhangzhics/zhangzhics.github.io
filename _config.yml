@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shujie Cui"
+title                    : "Zhi Zhang"
 title_separator          : "-"
-name                     : &name "Shujie Cui"
+name                     : &name "Zhi Zhang"
 description              : &description "personal description"
-url                      : https://shujiecui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhangzhics.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shujiecui/shujiecui.github.io"
+repository               : "zhangzhics/zhangzhics.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shujie Cui 崔书杰"
-  avatar           : "bio-shujie.png"
-  bio              : "shujie.cui@monash.edu"
-  location         : "Melbourne, Australia"
+  name             : "Zhi Zhang (张智)"
+  avatar           : "bio-zhi.png"
+  bio              : "zzhangphd@gmail.com"
+  location         : "Sydney, Australia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Shujie-Cui"# example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  #"https://www.researchgate.net/profile/Shujie-Cui"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shujiecui"
+  github           : #"zhizhang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shujie cui"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : #"zhi_zhang"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "shujie_cui"
+  twitter          : #"zhi_zhang"
   vine             :
   weibo            :
   xing             :
