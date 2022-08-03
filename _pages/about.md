@@ -35,7 +35,7 @@ redirect_from:
 ### Prestigious Awards
 * <sub> [2021] UNSW Dean’s Award for Outstanding PhD Theses (Top 10%) </sub>
 * <sub> [2017-2020] UNSW International Postgraduate Award and CSIRO Top-up Phd Scholarship </sub>
-* <sub> [2012] Peking University Scholarship, China (Top 3% </sub>
+* <sub> [2012] Peking University Scholarship, China (Top 3%) </sub>
 * <sub> [2010] College Graduate Excellence Award, Sichuan Province, China (Top 1%) </sub>
 * <sub> [2009] National Scholarship, China (Top 3%) </sub>
 
@@ -45,7 +45,7 @@ redirect_from:
 * <sub> [2011-2014] M.S. in software engineering, Peking University </sub>
   * <sub> Supervisor: Prof. Qingni Shen  </sub>
 * <sub> [2012-2013] Visiting Research Assistant, Singapore Managment University </sub>
-* <sub> [2007-2011] B.S. in communication engineering, Sichuan University, China </sub>
+* <sub> [2007-2011] B.S. in communication engineering, Sichuan University </sub>
 
 
 
