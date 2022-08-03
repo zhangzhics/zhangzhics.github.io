@@ -9,6 +9,10 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+- <sub> [2022] **RBNN: Memory-Efficient Reconfigurable Deep Binary Neural Network with IP Protection for Internet of Things** <br/>
+   Huming Qiu, Hua Ma, **Zhi Zhang**, Yansong Gao, Yifeng Zheng, Anmin Fu, Pan Zhou, Derek Abbott, Said F. Al-Sarawi <br/>
+   IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF A) <br/>
+   
 - <sub> [2022] **Meltdown-type attacks are still feasible in the wall of kernel page-Table isolation** <br/>
    Yueqiang Cheng, **Zhi Zhang**, Yansong Gao, Zhaofeng Chen, Shengjian Guo, Qifei Zhang, Rui Mei, Surya Nepal, Yang Xiang <br/>
    Computers & Security (CCF B) <br/>
