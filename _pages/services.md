@@ -1,25 +1,21 @@
 ---
 layout: archive
-title: "Service"
+title: "Services"
 permalink: /services/
 author_profile: true
 ---
 
 {% include base_path %}
 
-### Organisation
-- <sub>Privacy track chair: The 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2020)}
-- <sub>Privacy track chair: The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2019)
 
-### Program Committee
-- <sub>The 21th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2021)
-- <sub>The 16th DADS Track of the 36th ACM Symposium on Applied Computing (ACM SAC 2021)
-- <sub>2021 Australia Computer Security Week (ACSW)
-- <sub>The 20th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2020)
-- <sub>The 15th DADS Track of the 36th ACM Symposium on Applied Computing (ACM SAC 2020)
-- <sub>The 19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2019)
+### Program Committee Member
+- <sub>[2022] The 18th ACM ASIA Conference on Computer and Communications Security (CCF B)
+- <sub>[2022] The 2nd IEEE International Symposium on Secure and Private Execution Environment Design 
+- <sub>[2022] The 20th Australasian Information Security Conference
+- <sub>[2022] The 18th International Conference on Information Systems Security
+- <sub>[2019] The 5th International Conference on Collaboration and Internet Computing
 
-### Reviewer
-- <sub> IEEE Transactions on Dependable and Secure Computing (TDSC)</sub> 
-- <sub> IEEE Transactions on Cloud Computing (TCC)</sub> 
-- <sub> Computers & Security </sub>
+### Invited Reviewer
+- <sub> [2022] IEEE Transactions on Dependable and Secure Computing (CCF A) </sub> 
+- <sub> [2021] IEEE Transactions on Information Forensics and Security (CCF A) </sub> 
+- <sub> [2020] The 23th Information Security Conference (CCF B) </sub>
