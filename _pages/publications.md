@@ -9,6 +9,11 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+
+- <sub> [2022] **PPA: Preference Profiling Attack Against Federated Learning** <br/>
+   Chunyi Zhou, Yansong Gao, Anmin Fu, Kai Chen, Zhiyang Dai, **Zhi Zhang**, Minhui Xue, Yuqing Zhang <br/>
+   The Network and Distributed System Security Symposium (CCF A) <br/>
+
 - <sub> [2022] **RBNN: Memory-Efficient Reconfigurable Deep Binary Neural Network with IP Protection for Internet of Things** <br/>
    Huming Qiu, Hua Ma, **Zhi Zhang**, Yansong Gao, Yifeng Zheng, Anmin Fu, Pan Zhou, Derek Abbott, Said F. Al-Sarawi <br/>
    IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF A) <br/>
