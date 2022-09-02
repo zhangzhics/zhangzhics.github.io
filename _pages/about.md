@@ -33,11 +33,27 @@ redirect_from:
   * <sub> Supervisor: Prof. Yang Xiang </sub>  
 
 ### Prestigious Awards
+* <sub> [2022] CSIRO's SCS Program Collaboration Award </sub>
+* <sub> [2022] CSIRO's SCS Program Science Excellence Award </sub>
 * <sub> [2021] UNSW Dean’s Award for Outstanding PhD Theses (Top 10%) </sub>
 * <sub> [2017-2020] UNSW International Postgraduate Award and CSIRO Top-up Phd Scholarship </sub>
 * <sub> [2012] Peking University Scholarship, China (Top 3%) </sub>
 * <sub> [2010] College Graduate Excellence Award, Sichuan Province, China (Top 1%) </sub>
 * <sub> [2009] National Scholarship, China (Top 3%) </sub>
+
+### Invited Industrial Talks
+- <sub> [2020] **A New Rowhammer Technique to Break ALL Existing Defenses** <br/>
+   Yueqiang Cheng, **Zhi Zhang** <br/>
+   CanSecWest <br/>
+   
+- <sub> [2019] **Winter is Coming Back: Defeating the Most Advanced Rowhammer Defenses to Gain Root and Kernel Privileges** <br/>
+      Yueqiang Cheng, **Zhi Zhang**, Surya Nepal, Zhi Wang <br/>
+      Black Hat Asia <br/>
+      
+### Open-Source Contributions
+- <sub> [2016] VT-d: make flush-all actually flush all (Xen Patch) <br/>
+- <sub> [2013] CVE-2013-6375 (Xen Vulnerability) <br/>
+- <sub> [2013] fix linear page table construction in alloc l2 table (Xen Patch) <br/>
 
 ### Educational Background
 * <sub> [2017-2021] Ph.D. in computer science, University of New South Wales </sub>

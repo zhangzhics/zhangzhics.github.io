@@ -19,7 +19,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF A) <br/>
    
 - <sub> [2022] **Meltdown-type attacks are still feasible in the wall of kernel page-Table isolation** <br/>
-   Yueqiang Cheng, **Zhi Zhang**, Yansong Gao, Zhaofeng Chen, Shengjian Guo, Qifei Zhang, Rui Mei, Surya Nepal, Yang Xiang <br/>
+   Yueqiang Cheng, **Zhi Zhang (co-first author)**, Yansong Gao, Zhaofeng Chen, Shengjian Guo, Qifei Zhang, Rui Mei, Surya Nepal, Yang Xiang <br/>
    Computers & Security (CCF B) <br/>
 
 - <sub> [2022] **SoftTRR: Protect Page Tables against Rowhammer Attacks using Software-only Target Row Refresh** <br/>
@@ -28,7 +28,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    
 
 - <sub> [2021] **Evaluation and optimization of distributed machine learning techniques for internet of things** <br/>
-   Yansong Gao, Minki Kim, Chandra Thapa, Sharif Abuadbba, **Zhi Zhang**, Seyit Camtepe, Hyoungshick Kim, Surya Nepal <br/>
+   Yansong Gao, Minki Kim, Chandra Thapa, Sharif Abuadbba, **Zhi Zhang (corresponding author)**, Seyit Camtepe, Hyoungshick Kim, Surya Nepal <br/>
    IEEE Transactions on Computers (CCF A) <br/>
    
    
@@ -38,7 +38,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    
  
  - <sub> [2021] **Design and evaluation of a multi-domain trojan detection method on deep neural networks** <br/>
-   Yansong Gao, Yeonjae Kim, Bao Gia Doan, **Zhi Zhang**, Gongxuan Zhang, Surya Nepal, Damith Ranasinghe, Hyoungshick Kim <br/>
+   Yansong Gao, Yeonjae Kim, Bao Gia Doan, **Zhi Zhang (corresponding author)**, Gongxuan Zhang, Surya Nepal, Damith Ranasinghe, Hyoungshick Kim <br/>
    IEEE Transactions on Dependable and Secure Computing (CCF A) <br/>
    
    
@@ -48,7 +48,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
     
    
  - <sub> [2020] **DRAMDig: A knowledge-assisted tool to uncover dram address mapping** <br/>
-   Minghua Wang, **Zhi Zhang**, Yueqiang Cheng, Surya Nepal <br/>
+   Minghua Wang, **Zhi Zhang  (co-first author)**, Yueqiang Cheng, Surya Nepal <br/>
    ACM/IEEE Design Automation Conference (CCF A) <br/>
    
  - <sub> [2020] **Detecting hardware-assisted virtualization with inconspicuous features** <br/>
@@ -56,7 +56,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    IEEE Transactions on Information Forensics and Security (CCF A) <br/>
    
   - <sub> [2019] **CATTmew: Defeating software-only physical kernel isolation** <br/>
-   Yueqiang Cheng, **Zhi Zhang**, Surya Nepal, Zhi Wang <br/>
+   Yueqiang Cheng, **Zhi Zhang  (co-first author)**, Surya Nepal, Zhi Wang <br/>
    IEEE Transactions on Dependable and Secure Computing (CCF A) <br/>
    
  - <sub> [2018] **KASR: a reliable and practical approach to attack surface reduction of commodity OS kernels** <br/>
