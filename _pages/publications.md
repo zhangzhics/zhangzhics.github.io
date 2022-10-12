@@ -9,6 +9,9 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+  - <sub> [2022] **CATTmew: Defeating software-only physical kernel isolation** <br/>
+   **Zhi Zhang**, Wei He, Yueqiang Cheng, Wenhao Wang, Yansong Gao, Dongxi Liu, Kang Li, Surya Nepal, Anmin Fu, Yi Zou <br/>
+   IEEE Transactions on Dependable and Secure Computing (CCF A) <br/>
 
 - <sub> [2022] **PPA: Preference Profiling Attack Against Federated Learning** <br/>
    Chunyi Zhou, Yansong Gao, Anmin Fu, Kai Chen, Zhiyang Dai, **Zhi Zhang**, Minhui Xue, Yuqing Zhang <br/>
