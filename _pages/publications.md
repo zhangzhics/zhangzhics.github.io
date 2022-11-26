@@ -9,7 +9,12 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
-  - <sub> [2022] **Implicit Hammer : Cross-Privilege-Boundary Rowhammer through Implicit Accesses** <br/>
+
+- <sub> [2022] **CASSOCK: Viable Backdoor Attacks against DNN in the Wall of Source-Specific Backdoor Defenses** <br/>
+   Shang Wang, Yansong Gao, Anmin Fu, **Zhi Zhang**, Yuqing Zhang, Willy Susilo, Dongxi Liu<br/>
+   ACM ASIA Conference on Computer and Communications Security (CCF C) <br/>
+
+- <sub> [2022] **Implicit Hammer : Cross-Privilege-Boundary Rowhammer through Implicit Accesses** <br/>
    **Zhi Zhang**, Wei He, Yueqiang Cheng, Wenhao Wang, Yansong Gao, Dongxi Liu, Kang Li, Surya Nepal, Anmin Fu, Yi Zou <br/>
    IEEE Transactions on Dependable and Secure Computing (CCF A) <br/>
 

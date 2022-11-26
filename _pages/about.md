@@ -14,6 +14,7 @@ redirect_from:
 <sub> I'm a permanent Research Scientist at CSIRO's Data61, Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of system security, rowhammer, and adversarial artificial intelligence.
 
 ### News!
+- <sub>Our paper "CASSOCK: Viable Backdoor Attacks against DNN in the Wall of Source-Specific Backdoor Defenses" has been accepted by AsiaCCS 2023. 
 - <sub>Our paper "Implicit Hammer : Cross-Privilege-Boundary Rowhammer through Implicit Accesses" has been accepted by IEEE TDSC 2022. 
 - <sub>Our paper "PPA: Preference Profiling Attack Against Federated Learning" has been accepted by NDSS 2023. 
 - <sub>Our paper "RBNN: Memory-Efficient Reconfigurable Deep Binary Neural Network with IP Protection for Internet of Things" has been accepted by IEEE TCAD 2022. 
