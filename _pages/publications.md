@@ -9,6 +9,14 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+- <sub> [2023] **Quantization backdoors to deep learning commercial frameworks** <br/>
+   Hua Ma, Huming Qiu, Yansong Gao, **Zhi Zhang**, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Zhang Jiliang, Said Al-Sarawi, Derek Abbott <br/>
+   IEEE Transactions on Dependable and Secure Computing (CCF A) <br/>
+
+- <sub> [2023] **APMSA: Adversarial Perturbation against Model Stealing Attacks** <br/>
+   Jiliang Zhang, Shuang Peng, Yansong Gao, **Zhi Zhang**, Qinghui Hong <br/>
+   IEEE Transactions on Information Forensics and Security (CCF A) <br/>
+
 - <sub> [2023] **WhistleBlower: A System-level Empirical Study on RowHammer** <br/> 
     Wei He, **Zhi Zhang (co-first author)**, Yueqiang Cheng, Wenhao Wang, Wei Song, Yansong Gao, Qifei Zhang, Kang Li, Dongxi Liu, Surya Nepal<br/>
     IEEE Transactions on Computers (CCF A) <br/>
