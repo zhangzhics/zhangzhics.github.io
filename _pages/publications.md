@@ -9,6 +9,10 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+- <sub> [2023] **MACAB: Model-Agnostic Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World** <br/>
+   Hua Ma, Yinshan Li, Yansong Gao, **Zhi Zhang**, Alsharif Abuadbba, Anmin Fu, Said F Al-Sarawi, Nepal Surya, Derek Abbott <br/>
+   International Symposium on Reliable Distributed Systems (CCF B) <br/>
+
 - <sub> [2023] **Quantization backdoors to deep learning commercial frameworks** <br/>
    Hua Ma, Huming Qiu, Yansong Gao, **Zhi Zhang**, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Zhang Jiliang, Said Al-Sarawi, Derek Abbott <br/>
    IEEE Transactions on Dependable and Secure Computing (CCF A) <br/>
