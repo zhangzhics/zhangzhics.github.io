@@ -9,6 +9,10 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+- <sub> [2024] **DeepTheft: Stealing DNN Model Architectures through Power Side Channel** <br/>
+   Yansong Gao, Huming Qiu, **Zhi Zhang (corresponding author)**, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Surya Nepal <br/>
+    IEEE Symposium on Security and Privacy (CCF A) <br/>
+
 - <sub> [2023] **MACAB: Model-Agnostic Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World** <br/>
    Hua Ma, Yinshan Li, Yansong Gao, **Zhi Zhang**, Alsharif Abuadbba, Anmin Fu, Said F Al-Sarawi, Nepal Surya, Derek Abbott <br/>
    International Symposium on Reliable Distributed Systems (CCF B) <br/>

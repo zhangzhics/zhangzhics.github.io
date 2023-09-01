@@ -14,12 +14,9 @@ redirect_from:
 <sub> I'm a lecturer in the University of Western Australia. Prior to that, I was Research Scientist at CSIRO's Data61, Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of system security, rowhammer, and adversarial artificial intelligence.
 
 ### News!
-- <sub>Our paper "DeepTheft: Stealing DNN Model Architectures through Power Side Channel" has been accepted with shepherding by Oakland 2024.
+- <sub>Our paper "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection" has been conditionally accepted by USENIX Security 2024.
+- <sub>Our paper "DeepTheft: Stealing DNN Model Architectures through Power Side Channel" has been accepted by Oakland 2024.
 - <sub>Our paper "CASSOCK: Viable Backdoor Attacks against DNN in the Wall of Source-Specific Backdoor Defenses" has received Distinguished Papers Award from AsiaCCS 2023. 
-- <sub>Our paper "Quantization backdoors to deep learning commercial frameworks" has been accepted by IEEE TDSC 2023. 
-- <sub>Our paper "APMSA: Adversarial Perturbation against Model Stealing Attacks" has been accepted by IEEE TIFS 2023. 
-- <sub>Our paper "WhistleBlower: A System-level Empirical Study on RowHammer" has been accepted by IEEE TC 2023. 
-- <sub>Our paper "CASSOCK: Viable Backdoor Attacks against DNN in the Wall of Source-Specific Backdoor Defenses" has been accepted by AsiaCCS 2023. 
 
 
 
