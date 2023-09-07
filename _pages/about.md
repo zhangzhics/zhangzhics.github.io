@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
  
-<sub> I'm a lecturer in the University of Western Australia. Prior to that, I was Research Scientist at CSIRO's Data61, Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of system security, rowhammer, and adversarial artificial intelligence.
+<sub> I'm a lecturer (equivalent to assistant professor in US) in the University of Western Australia. Prior to that, I was Research Scientist at CSIRO's Data61, Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of system security, rowhammer, and adversarial artificial intelligence.
 
 ### News!
 - <sub>Our paper "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection" has been conditionally accepted by USENIX Security 2024.
