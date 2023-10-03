@@ -10,7 +10,7 @@ author_profile: true
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
 - <sub> [2024] **Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection** <br/>
-   Shaofeng Li, Xinyu Wang, Minhui Xue, Haojin Zhu (corresponding author), **Zhi Zhang (co-corresponding author)**, Yansong Gao, Wen Wu, Xuemin (Sherman) Shen <br/>
+   Shaofeng Li, Xinyu Wang, Minhui Xue, Haojin Zhu (corresponding author), **Zhi Zhang (co-corresponding author)**, Yansong Gao, Wen Wu, Xuemin Shen <br/>
     USENIX Security (CCF A) <br/>
 
 - <sub> [2024] **DeepTheft: Stealing DNN Model Architectures through Power Side Channel** <br/>
