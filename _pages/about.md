@@ -14,7 +14,7 @@ redirect_from:
 <sub> I'm a lecturer (equivalent to assistant professor in US) in the University of Western Australia. Prior to that, I was Research Scientist at CSIRO's Data61, Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of system security, rowhammer, and adversarial artificial intelligence.
 
 ### News!
-- <sub>Our paper "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection" has been conditionally accepted by USENIX Security 2024.
+- <sub>Our paper "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection" has been accepted by USENIX Security 2024.
 - <sub>Our paper "DeepTheft: Stealing DNN Model Architectures through Power Side Channel" has been accepted by Oakland 2024.
 - <sub>Our paper "CASSOCK: Viable Backdoor Attacks against DNN in the Wall of Source-Specific Backdoor Defenses" has received Distinguished Papers Award from AsiaCCS 2023. 
 
@@ -23,7 +23,6 @@ redirect_from:
 ### Working Experience
 * <sub> 2022.12-present: Lecturer </sub>
   * <sub> University of Western Australia </sub>
-  * <sub> Supervisor: Dr. Rachel Cardell-Oliver </sub>
 
 * <sub> 2022.4-2022.12: Research Scientist </sub>
   * <sub> Data61, CSIRO </sub>
