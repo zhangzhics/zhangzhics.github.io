@@ -17,6 +17,14 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    Yansong Gao, Huming Qiu, **Zhi Zhang (corresponding author)**, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Surya Nepal <br/>
     IEEE Symposium on Security and Privacy (CCF A) <br/>
 
+- <sub> [2023] **Towards a critical evaluation of robustness for deep learning backdoor countermeasures** <br/>
+   Huming Qiu, Hua Ma, **Zhi Zhang**, Alsharif Abuadbba, Wei Kang, Anmin Fu, Yansong Gao <br/>
+   IEEE Transactions on Information Forensics and Security (CCF A) <br/>
+
+- <sub> [2023] **NTD: Non-Transferability enabled Deep Learning Backdoor Detection** <br/>
+   Yinshan Li, Hua Ma, **Zhi Zhang**, Yansong Gao, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Yifeng Zheng, Said F Al-Sarawi, Derek Abbott <br/>
+   IEEE Transactions on Information Forensics and Security (CCF A) <br/>
+
 - <sub> [2023] **MACAB: Model-Agnostic Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World** <br/>
    Hua Ma, Yinshan Li, Yansong Gao, **Zhi Zhang**, Alsharif Abuadbba, Anmin Fu, Said F Al-Sarawi, Nepal Surya, Derek Abbott <br/>
    International Symposium on Reliable Distributed Systems (CCF B) <br/>
