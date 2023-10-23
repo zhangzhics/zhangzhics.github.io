@@ -57,6 +57,7 @@ redirect_from:
       Black Hat Asia <br/>
       
 ### Open-Source Contributions
+- <sub> [2023] /sys/devices/virtual/powercap accessible by default to containers (Docker Container Security Issue) <br/>
 - <sub> [2016] VT-d: make flush-all actually flush all (Xen Patch) <br/>
 - <sub> [2013] CVE-2013-6375 (Xen Vulnerability) <br/>
 - <sub> [2013] fix linear page table construction in alloc l2 table (Xen Patch) <br/>
