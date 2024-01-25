@@ -29,11 +29,11 @@ redirect_from:
   * <sub> Data61, CSIRO </sub>
   * <sub> Supervisor: Dr. Dongxi Liu and Dr. Surya Nepal </sub>
 
-* <sub> 2020.12-2022.4: Postdotoral Fellow </sub>
+* <sub> 2020.11-2022.4: Postdotoral Fellow </sub>
   * <sub> Data61, CSIRO </sub>
   * <sub> Supervisor: Dr. Dongxi Liu and Dr. Surya Nepal </sub>
   
-* <sub> 2020.9-2020.12: Postdotoral Fellow </sub>
+* <sub> 2020.8-2020.11: Postdotoral Fellow </sub>
   * <sub> Swinburne University of Technology </sub>
   * <sub> Supervisor: Prof. Yang Xiang </sub>  
 
