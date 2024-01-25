@@ -15,7 +15,6 @@ author_profile: true
 - <sub>[2022] The 2nd IEEE International Symposium on Secure and Private Execution Environment Design 
 - <sub>[2022] The 20th Australasian Information Security Conference
 - <sub>[2022] The 18th International Conference on Information Systems Security
-- <sub>[2019] The 5th International Conference on Collaboration and Internet Computing
 
 ### Invited Reviewer
 - <sub> [2024] The Web Conference 2024 (CCF A) </sub> 
