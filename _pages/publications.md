@@ -9,6 +9,10 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+- <sub> [2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based on Thermal Event Interrupts** <br/>
+   Xin Zhang, **Zhi Zhang (co-first author)**, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang and Zhonghai Wu <br/>
+   ACM/IEEE Design Automation Conference (CCF A) <br/>
+
 - <sub> [2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** <br/>
    Xin Zhang, **Zhi Zhang (co-first author)**, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhang Jiliang <br/>
     IEEE International Symposium on High-Performance Computer Architecture (CCF A) <br/>
