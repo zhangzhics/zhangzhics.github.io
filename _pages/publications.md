@@ -9,7 +9,7 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
-- <sub> [2024] **SoK: Rowhammer on Commodity Operating** <br/>
+- <sub> [2024] **SoK: Rowhammer on Commodity Operating Systems** <br/>
    **Zhi Zhang**, Decheng Chen, Jiahao Qi, Yueqiang Cheng, Shijie Jiang, Yiyang Lin, Yansong Gao, Surya Nepal, Yi Zou, Jiliang Zhang, Yang Xiang  <br/>
    ACM ASIA Conference on Computer and Communications Security (CCF C) <br/>
 
