@@ -27,7 +27,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
 
 - <sub> [2024] **DeepTheft: Stealing DNN Model Architectures through Power Side Channel** <br/>
    Yansong Gao, Huming Qiu, **Zhi Zhang (corresponding author)**, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Surya Nepal <br/>
-    IEEE Symposium on Security and Privacy <br/>
+    IEEE Symposium on Security and Privacy (AR: 17.8%) <br/>
 
 - <sub> [2023] **Towards a critical evaluation of robustness for deep learning backdoor countermeasures** <br/>
    Huming Qiu, Hua Ma, **Zhi Zhang**, Alsharif Abuadbba, Wei Kang, Anmin Fu, Yansong Gao <br/>
@@ -53,9 +53,9 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
     Wei He, **Zhi Zhang (co-first author)**, Yueqiang Cheng, Wenhao Wang, Wei Song, Yansong Gao, Qifei Zhang, Kang Li, Dongxi Liu, Surya Nepal<br/>
     IEEE Transactions on Computers <br/>
 
-- <sub> [2022] **CASSOCK: Viable Backdoor Attacks against DNN in the Wall of Source-Specific Backdoor Defenses** <br/>
+- <sub> [2022] **CASSOCK: Viable Backdoor Attacks against DNN in the Wall of Source-Specific Backdoor Defenses** (Distinguished Paper Award) <br/>
    Shang Wang, Yansong Gao, Anmin Fu, **Zhi Zhang**, Yuqing Zhang, Willy Susilo, Dongxi Liu<br/>
-   ACM ASIA Conference on Computer and Communications Security <br/>
+   ACM ASIA Conference on Computer and Communications Security (AR: 17%) <br/>
 
 - <sub> [2022] **Implicit Hammer : Cross-Privilege-Boundary Rowhammer through Implicit Accesses** <br/>
    **Zhi Zhang**, Wei He, Yueqiang Cheng, Wenhao Wang, Yansong Gao, Dongxi Liu, Kang Li, Surya Nepal, Anmin Fu, Yi Zou <br/>
@@ -63,7 +63,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
 
 - <sub> [2022] **PPA: Preference Profiling Attack Against Federated Learning** <br/>
    Chunyi Zhou, Yansong Gao, Anmin Fu, Kai Chen, Zhiyang Dai, **Zhi Zhang**, Minhui Xue, Yuqing Zhang <br/>
-   The Network and Distributed System Security Symposium <br/>
+   The Network and Distributed System Security Symposium (AR: 16.2%)<br/>
 
 - <sub> [2022] **RBNN: Memory-Efficient Reconfigurable Deep Binary Neural Network with IP Protection for Internet of Things** <br/>
    Huming Qiu, Hua Ma, **Zhi Zhang**, Yansong Gao, Yifeng Zheng, Anmin Fu, Pan Zhou, Derek Abbott, Said F. Al-Sarawi <br/>
@@ -100,7 +100,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    
  - <sub> [2020] **DRAMDig: A knowledge-assisted tool to uncover dram address mapping** <br/>
    Minghua Wang, **Zhi Zhang  (co-first author)**, Yueqiang Cheng, Surya Nepal <br/>
-   ACM/IEEE Design Automation Conference <br/>
+   ACM/IEEE Design Automation Conference (AR: 23%)<br/>
    
  - <sub> [2020] **Detecting hardware-assisted virtualization with inconspicuous features** <br/>
    **Zhi Zhang**, Yueqiang Cheng, Yansong Gao, Surya Nepal, Dongxi Liu, Yi Zou <br/>
