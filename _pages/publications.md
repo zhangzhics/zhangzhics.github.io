@@ -9,17 +9,21 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+- <sub> [2024] **Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense** <br/>
+   Hua Ma, Shang Wang, Yansong Gao, **Zhi Zhang**, Huming Qiu, Minhui Xue, Alsharif Abuadbba, Anmin Fu, Surya Nepal, Derek Abbott <br/>
+   ACM Conference on Computer and Communications Security <br/>
+
 - <sub> [2024] **SoK: Rowhammer on Commodity Operating Systems** <br/>
    **Zhi Zhang**, Decheng Chen, Jiahao Qi, Yueqiang Cheng, Shijie Jiang, Yiyang Lin, Yansong Gao, Surya Nepal, Yi Zou, Jiliang Zhang, Yang Xiang  <br/>
-   ACM ASIA Conference on Computer and Communications Security (AR:19%) <br/>
+   ACM ASIA Conference on Computer and Communications Security (AR: 19%) <br/>
 
 - <sub> [2024] **ThermalScope: A Practical Interrupt Side Channel Attack Based on Thermal Event Interrupts** <br/>
    Xin Zhang, **Zhi Zhang (co-first author)**, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang and Zhonghai Wu <br/>
-   ACM/IEEE Design Automation Conference (AR:23%) <br/>
+   ACM/IEEE Design Automation Conference (AR: 23%) <br/>
 
 - <sub> [2024] **SegScope: Probing Fine-grained Interrupts via Architectural Footprints** <br/>
    Xin Zhang, **Zhi Zhang (co-first author)**, Qingni Shen, Wenhao Wang, Yansong Gao, Zhuoxi Yang, Zhang Jiliang <br/>
-    IEEE International Symposium on High-Performance Computer Architecture (AR:18%) <br/>
+    IEEE International Symposium on High-Performance Computer Architecture (AR: 18%) <br/>
 
 - <sub> [2024] **Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection** <br/>
    Shaofeng Li, Xinyu Wang, Minhui Xue, Haojin Zhu (corresponding author), **Zhi Zhang (co-corresponding author)**, Yansong Gao, Wen Wu, Xuemin Shen <br/>

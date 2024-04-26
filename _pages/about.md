@@ -14,6 +14,7 @@ redirect_from:
 <sub> I'm a lecturer (equivalent to assistant professor in US) in the University of Western Australia. Prior to that, I was Research Scientist at CSIRO's Data61, Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of system security, rowhammer, and adversarial artificial intelligence.
 
 ### News!
+- <sub>Our paper "Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense" has been accepted by CCS 2024. 
 - <sub>Our paper "SoK: Rowhammer on Commodity Operating" has been accepted by AsiaCCS 2024. 
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 - <sub>Our paper "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection" has been accepted by USENIX Security 2024.
