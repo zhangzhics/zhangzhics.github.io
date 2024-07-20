@@ -9,6 +9,8 @@ author_profile: true
 
 
 ### Program Committee Member
+- <sub>[2025] The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (CCF B)
+- <sub>[2025] The 20th ACM ASIA Conference on Computer and Communications Security (CCF C)
 - <sub>[2024] The 19th ACM ASIA Conference on Computer and Communications Security (CCF C)
 - <sub>[2023] The 32nd IEEE Asian Test Symposium (CCF C)
 - <sub>[2023] The 18th ACM ASIA Conference on Computer and Communications Security (CCF C)
