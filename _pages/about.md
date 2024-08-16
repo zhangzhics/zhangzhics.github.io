@@ -14,8 +14,9 @@ redirect_from:
 <sub> I'm a lecturer (equivalent to assistant professor in US) in the University of Western Australia. Prior to that, I was Research Scientist at CSIRO's Data61, Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of system security, rowhammer, and adversarial artificial intelligence.
 
 ### News!
+- <sub>Our paper "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection" has received a Distinguished Paper Award from USENIX Security 2024!
 - <sub>Our paper "Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense" has been accepted by CCS 2024. 
-- <sub>Our paper "SoK: Rowhammer on Commodity Operating" has been accepted by AsiaCCS 2024. 
+- <sub>Our paper "SoK: Rowhammer on Commodity Operating" has been accepted by ASIACCS 2024. 
 - <sub>Our paper "SegScope: Probing Fine-grained Interrupts via Architectural Footprints" has been accepted by HPCA 2024.
 - <sub>Our paper "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection" has been accepted by USENIX Security 2024.
 - <sub>Our paper "DeepTheft: Stealing DNN Model Architectures through Power Side Channel" has been accepted by Oakland 2024.
@@ -39,7 +40,8 @@ redirect_from:
   * <sub> Supervisor: Prof. Yang Xiang </sub>  
 
 ### Prestigious Awards
-* <sub> [2023] AsiaCCS Distinguished Papers Award </sub>
+* <sub> [2024] USENIX SECURITY Distinguished Paper Award </sub>
+* <sub> [2023] ASIACCS Distinguished Paper Award </sub>
 * <sub> [2022] CSIRO's SCS Program Collaboration Award </sub>
 * <sub> [2022] CSIRO's SCS Program Science Excellence Award </sub>
 * <sub> [2021] UNSW Dean’s Award for Outstanding PhD Theses (Top 10%) </sub>
