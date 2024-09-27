@@ -9,6 +9,11 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+- <sub> [2025] **Try to Poison My Deep Learning Data? Nowhere to Hide Your Trajectory Spectrum!** <br/>
+   Yansong Gao, Huaibing Peng, Hua Ma, **Zhi Zhang (corresponding author)**, Shuo Wang, Rayne Holland, Anmin Fu, Minhui Xue,
+and Derek Abbott. <br/>
+   The Network and Distributed System Security Symposium 2025 <br/>
+
 - <sub> [2024] **Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense** <br/>
    Hua Ma, Shang Wang, Yansong Gao, **Zhi Zhang**, Huming Qiu, Minhui Xue, Alsharif Abuadbba, Anmin Fu, Surya Nepal, Derek Abbott <br/>
    ACM Conference on Computer and Communications Security <br/>
