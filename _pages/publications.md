@@ -16,7 +16,7 @@ and Derek Abbott. <br/>
 
 - <sub> [2024] **Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense** <br/>
    Hua Ma, Shang Wang, Yansong Gao, **Zhi Zhang**, Huming Qiu, Minhui Xue, Alsharif Abuadbba, Anmin Fu, Surya Nepal, Derek Abbott <br/>
-   ACM Conference on Computer and Communications Security <br/>
+   ACM Conference on Computer and Communications Security (AR: 16.9%) <br/>
 
 - <sub> [2024] **SoK: Rowhammer on Commodity Operating Systems** <br/>
    **Zhi Zhang**, Decheng Chen, Jiahao Qi, Yueqiang Cheng, Shijie Jiang, Yiyang Lin, Yansong Gao, Surya Nepal, Yi Zou, Jiliang Zhang, Yang Xiang  <br/>
@@ -32,7 +32,7 @@ and Derek Abbott. <br/>
 
 - <sub> [2024] **Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection** <br/>
    Shaofeng Li, Xinyu Wang, Minhui Xue, Haojin Zhu (corresponding author), **Zhi Zhang (co-corresponding author)**, Yansong Gao, Wen Wu, Xuemin Shen <br/>
-    USENIX Security <br/>
+    USENIX Security (AR: 18.3%)<br/>
 
 - <sub> [2024] **DeepTheft: Stealing DNN Model Architectures through Power Side Channel** <br/>
    Yansong Gao, Huming Qiu, **Zhi Zhang (corresponding author)**, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Surya Nepal <br/>
