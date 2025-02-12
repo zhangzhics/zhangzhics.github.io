@@ -9,6 +9,18 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+- <sub> [2025] **HyperHammer: Breaking Free from KVM-Enforced Isolation** <br/>
+   Wei Chen, **Zhi Zhang (corresponding author)**, Xin Zhang, Qingni Shen, Yuval Yarom, Daniel Genkin, Chen Yan, Zhe Wang. <br/>
+   ACM International Conference on Architectural Support for Programming Languages and Operating Systems <br/>
+
+- <sub> [2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** <br/>
+  Junkai Liang, **Zhi Zhang (co-first author)**, Xin Zhang, Qingni Shen, Yansong Gao, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu. <br/>
+   USENIX Security <br/>
+
+- <sub> [2025] **THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models** <br/>
+   Yujin Huang, **Zhi Zhang (corresponding author)**, Qingchuan Zhao, Xingliang Yuan, Chunyang Chen. <br/>
+   USENIX Security <br/>
+
 - <sub> [2025] **Try to Poison My Deep Learning Data? Nowhere to Hide Your Trajectory Spectrum!** <br/>
    Yansong Gao, Huaibing Peng, Hua Ma, **Zhi Zhang (corresponding author)**, Shuo Wang, Rayne Holland, Anmin Fu, Minhui Xue,
 and Derek Abbott. <br/>
@@ -33,6 +45,7 @@ and Derek Abbott. <br/>
 - <sub> [2024] **Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection** <br/>
    Shaofeng Li, Xinyu Wang, Minhui Xue, Haojin Zhu (corresponding author), **Zhi Zhang (co-corresponding author)**, Yansong Gao, Wen Wu, Xuemin Shen <br/>
     USENIX Security (AR: 18.3%)<br/>
+    **Distinguished Paper Award** <br/>
 
 - <sub> [2024] **DeepTheft: Stealing DNN Model Architectures through Power Side Channel** <br/>
    Yansong Gao, Huming Qiu, **Zhi Zhang (corresponding author)**, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Surya Nepal <br/>
@@ -65,7 +78,8 @@ and Derek Abbott. <br/>
 - <sub> [2022] **CASSOCK: Viable Backdoor Attacks against DNN in the Wall of Source-Specific Backdoor Defenses** (Distinguished Paper Award) <br/>
    Shang Wang, Yansong Gao, Anmin Fu, **Zhi Zhang**, Yuqing Zhang, Willy Susilo, Dongxi Liu<br/>
    ACM ASIA Conference on Computer and Communications Security (AR: 17%) <br/>
-
+   **Distinguished Paper Award** <br/>
+   
 - <sub> [2022] **Implicit Hammer : Cross-Privilege-Boundary Rowhammer through Implicit Accesses** <br/>
    **Zhi Zhang**, Wei He, Yueqiang Cheng, Wenhao Wang, Yansong Gao, Dongxi Liu, Kang Li, Surya Nepal, Anmin Fu, Yi Zou <br/>
    IEEE Transactions on Dependable and Secure Computing <br/>
