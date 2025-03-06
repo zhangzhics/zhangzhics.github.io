@@ -56,6 +56,7 @@ redirect_from:
       Black Hat Asia <br/>
       
 ### Open-Source Contributions
+- <sub> [2024] CVE-2024-2881, CVE-2024-1545, CVE-2023-51939, CVE-2024-28285, CVE-2024-31510 (Cryptographic Libraries) <br/>
 - <sub> [2023] /sys/devices/virtual/powercap accessible by default to containers (Docker Container Security Issue) <br/>
 - <sub> [2016] VT-d: make flush-all actually flush all (Xen Patch) <br/>
 - <sub> [2013] CVE-2013-6375 (Xen Vulnerability) <br/>
