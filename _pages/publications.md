@@ -18,8 +18,12 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    ACM/IEEE Design Automation Conference <br/>
 
 - <sub> [2025] **LeakyDSP: Exploiting Digital Signal Processing Blocks to Sense Voltage Fluctuations in FPGAs** <br/>
-   Xin Zhang, Jiajun Zou1, Yi Yang, Qingni Shen, **Zhi Zhang (co-corresponding author)**, Yansong Gao, Zhonghai Wu, Trevor Carlson<br/>
+   Xin Zhang, Jiajun Zou1, Yi Yang, Qingni Shen, **Zhi Zhang (co-corresponding author)**, Yansong Gao, Zhonghai Wu, Trevor Carlson <br/>
    ACM/IEEE Design Automation Conference <br/>
+
+- <sub> [2025] **Decaf: Data Distribution Decompose Attack Against Federated Learning** <br/>
+  Zhiyang Dai, Yansong Gao, Chunyi Zhou, Anmin Fu, **Zhi Zhang**, Minhui Xue, Yifeng Zheng, Yuqing Zhang <br/>
+   IEEE Transactions on Information Forensics and Security <br/>
 
 - <sub> [2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** <br/>
   Junkai Liang, **Zhi Zhang (co-first author)**, Xin Zhang, Qingni Shen, Yansong Gao, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu. <br/>
