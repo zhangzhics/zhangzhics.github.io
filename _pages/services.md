@@ -23,6 +23,7 @@ author_profile: true
 ### Invited Reviewer
 - <sub> [2025] IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems </sub> 
 - <sub> [2025] IEEE Transactions on Mobile Computing </sub> 
+- <sub> [2024] IEEE Transactions on Computer </sub> 
 - <sub> [2024] The 29th European Symposium on Research in Computer Security </sub> 
 - <sub> [2023] IEEE Transactions on Dependable and Secure Computing </sub> 
 - <sub> [2022] Journal of Information Security and Applications </sub> 
