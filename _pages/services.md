@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
+### Associate Editor 
+- <sub> [2025] IEEE Transactions on Dependable and Secure Computing </sub> 
+
 ### Program Committee Member
 - <sub>[2025] The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
 - <sub>[2025] The 20th ACM ASIA Conference on Computer and Communications Security
