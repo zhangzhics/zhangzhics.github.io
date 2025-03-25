@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
  
-<sub> I'm a lecturer (equivalent to assistant professor in US) in the University of Western Australia. Prior to that, I was Research Scientist at CSIRO's Data61, Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of system security, rowhammer, and adversarial artificial intelligence.
+<sub> I'm a lecturer (equivalent to assistant professor in US) in the University of Western Australia. Prior to that, I was Research Scientist at CSIRO's Data61, Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of hardware security, system security, and their intersections with AI security.
 
 ### News!
 - <sub>Our paper "HyperHammer: Breaking Free from KVM-Enforced Isolation" has been accepted by ASPLOS 2025.
