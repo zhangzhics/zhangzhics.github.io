@@ -12,6 +12,7 @@ author_profile: true
 - <sub> [2025] IEEE Transactions on Dependable and Secure Computing </sub> 
 
 ### Program Committee Member
+- <sub>[2026] The ACM International Conference on Architectural Support for Programming Languages and Operating Systems
 - <sub>[2025] The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
 - <sub>[2025] The 20th ACM ASIA Conference on Computer and Communications Security
 - <sub>[2025] The ACM Web Conference 2025 
