@@ -9,9 +9,21 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+- <sub> [2025] ** Practical Opcode-based Fault Attack on AES-NI <br/>
+    Xue Gong, Xin Zhang, Qianmei Wu, Fan Zhang, Junge Xu, Qingni Shen, Zhi Zhang <br/>
+    Transactions on Cryptographic Hardware and Embedded Systems <br/>
+
+- <sub> [2025] **TruVRF: Towards Triple-Granularity Verification on Machine Unlearning** <br/>
+   Chunyi Zhou, Yansong Gao, Anmin Fu, Kai Chen, **Zhi Zhang**, Minhui Xue, Zhiyang Dai, Shouling Ji, Yuqing Zhang <br/>
+   IEEE Transactions on Information Forensics and Security <br/>
+
 - <sub> [2025] **HyperHammer: Breaking Free from KVM-Enforced Isolation** <br/>
-   Wei Chen, **Zhi Zhang (corresponding author)**, Xin Zhang, Qingni Shen, Yuval Yarom, Daniel Genkin, Chen Yan, Zhe Wang. <br/>
+   Wei Chen, **Zhi Zhang (corresponding author)**, Xin Zhang, Qingni Shen, Yuval Yarom, Daniel Genkin, Chen Yan, Zhe Wang <br/>
    ACM International Conference on Architectural Support for Programming Languages and Operating Systems <br/>
+
+- <sub> [2025] **Machine Unlearning: Taxonomy, Metrics, Applications, Challenges, and Prospects** <br/>
+   Na Li, Chunyi Zhou, Yansong Gao, Hui Chen, Anmin Fu, **Zhi Zhang**, Yu Shui <br/>
+   IEEE Transactions on Neural Networks and Learning Systems <br/>
 
 - <sub> [2025] **AmpereBleed: Exploiting On-chip Current Sensors for Circuit-Free Attacks on ARM-FPGA SoCs** <br/>
    Xin Zhang, Yi Yang, Jiajun Zou, Qingni Shen1, **Zhi Zhang (co-corresponding author)**, Yansong Gao, Zhonghai Wu, Trevor Carlson <br/>
