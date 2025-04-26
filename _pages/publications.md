@@ -9,8 +9,8 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
-- <sub> [2025] ** Practical Opcode-based Fault Attack on AES-NI <br/>
-    Xue Gong, Xin Zhang, Qianmei Wu, Fan Zhang, Junge Xu, Qingni Shen, Zhi Zhang <br/>
+- <sub> [2025] **Practical Opcode-based Fault Attack on AES-NI** <br/>
+    Xue Gong, Xin Zhang, Qianmei Wu, Fan Zhang, Junge Xu, Qingni Shen, **Zhi Zhang** <br/>
     Transactions on Cryptographic Hardware and Embedded Systems <br/>
 
 - <sub> [2025] **TruVRF: Towards Triple-Granularity Verification on Machine Unlearning** <br/>
