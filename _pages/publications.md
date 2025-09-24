@@ -9,6 +9,14 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+- <sub> [2025] **Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86**
+    Xin Zhang, Qingni Shen, **Zhi Zhang (co-corresponding author)**, Yansong Gao, Jiajun Zou, Yi Yang, Zhonghai Wu <br/>
+    IEEE Transactions on Information Forensics and Security <br/>
+
+- <sub> [2025] **MUXLeak: Exploiting Multiplexers as A Power Side Channel against Multi-tenant FPGAs** <br/>
+    Xin Zhang, Jiajun Zou, **Zhi Zhang (corresponding author)**, Qingni Shen, Yansong Gao, Jinhua Cui, Yusi Feng, Zhonghai Wu, Derek Abbott <br/>
+    IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems <br/>
+
 - <sub> [2025] **Practical Opcode-based Fault Attack on AES-NI** <br/>
     Xue Gong, Xin Zhang, Qianmei Wu, Fan Zhang, Junge Xu, Qingni Shen, **Zhi Zhang** <br/>
     Transactions on Cryptographic Hardware and Embedded Systems <br/>
@@ -37,9 +45,14 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
   Zhiyang Dai, Yansong Gao, Chunyi Zhou, Anmin Fu, **Zhi Zhang**, Minhui Xue, Yifeng Zheng, Yuqing Zhang <br/>
    IEEE Transactions on Information Forensics and Security <br/>
 
+- <sub> [2025] **TAPAS: An Efficient Online APT Detection with Task-guided Process Provenance Graph Segmentation and Analysis** <br/>
+   Bo Zhang, Yansong Gao, Changlong Yu, Boyu Kuang, Zhi Zhang, Hyoungshick Kim, Anmin Fu<br/>
+   USENIX Security <br/>
+
 - <sub> [2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** <br/>
   Junkai Liang, **Zhi Zhang (co-first author)**, Xin Zhang, Qingni Shen, Yansong Gao, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu. <br/>
    USENIX Security <br/>
+   **Honorable Mention Paper Award** <br/>
 
 - <sub> [2025] **THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models** <br/>
    Yujin Huang, **Zhi Zhang (corresponding author)**, Qingchuan Zhao, Xingliang Yuan, Chunyang Chen. <br/>

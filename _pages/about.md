@@ -11,31 +11,34 @@ redirect_from:
 {% include base_path %}
 
  
-<sub> I'm a lecturer (equivalent to assistant professor in US) in the University of Western Australia. Prior to that, I was Research Scientist at CSIRO's Data61, Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of hardware security, system security, and their intersections with AI security.
+<sub> I'm a Senior lecturer (equivalent to associate professor in US) in the University of Western Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of hardware security, system security, and their intersections with AI security.
 
 ### News!
 - <sub>Our paper "HyperHammer: Breaking Free from KVM-Enforced Isolation" has been accepted by ASPLOS 2025.
 - <sub>Our paper "Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer" has been accepted by USENIX Security 2025.
 - <sub>Our paper "THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models" has been accepted by USENIX Security 2025.
-- <sub>Our paper "Try to Poison My Deep Learning Data? Nowhere to Hide Your Trajectory Spectrum!" has been accepted by NDSS 2025.
 
 ### Working Experience
-* <sub> 2022.12-present: Lecturer </sub>
+* <sub> 2025.8-Present: Senior Lecturer </sub>
+  * <sub> University of Western Australia </sub>
+
+* <sub> 2022.12-2025.8: Lecturer </sub>
   * <sub> University of Western Australia </sub>
 
 * <sub> 2022.4-2022.12: Research Scientist </sub>
   * <sub> Data61, CSIRO </sub>
   * <sub> Supervisor: Dr. Dongxi Liu and Dr. Surya Nepal </sub>
 
-* <sub> 2020.11-2022.4: Postdotoral Fellow </sub>
+* <sub> 2020.11-2022.4: Postdoctoral Fellow </sub>
   * <sub> Data61, CSIRO </sub>
   * <sub> Supervisor: Dr. Dongxi Liu and Dr. Surya Nepal </sub>
   
-* <sub> 2020.8-2020.11: Postdotoral Fellow </sub>
+* <sub> 2020.8-2020.11: Postdoctoral Fellow </sub>
   * <sub> Swinburne University of Technology </sub>
   * <sub> Supervisor: Prof. Yang Xiang </sub>  
 
 ### Prestigious Awards
+* <sub> [2025] USENIX SECURITY Honorable Mention Paper Award </sub>
 * <sub> [2024] USENIX SECURITY Distinguished Paper Award </sub>
 * <sub> [2023] ASIACCS Distinguished Paper Award </sub>
 * <sub> [2022] CSIRO's SCS Program Collaboration Award </sub>
