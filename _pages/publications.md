@@ -9,7 +9,7 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
-- <sub> [2025] **Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86**
+- <sub> [2025] **Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86**<br/>
     Xin Zhang, Qingni Shen, **Zhi Zhang (co-corresponding author)**, Yansong Gao, Jiajun Zou, Yi Yang, Zhonghai Wu <br/>
     IEEE Transactions on Information Forensics and Security <br/>
 
@@ -46,7 +46,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    IEEE Transactions on Information Forensics and Security <br/>
 
 - <sub> [2025] **TAPAS: An Efficient Online APT Detection with Task-guided Process Provenance Graph Segmentation and Analysis** <br/>
-   Bo Zhang, Yansong Gao, Changlong Yu, Boyu Kuang, Zhi Zhang, Hyoungshick Kim, Anmin Fu<br/>
+   Bo Zhang, Yansong Gao, Changlong Yu, Boyu Kuang, **Zhi Zhang**, Hyoungshick Kim, Anmin Fu<br/>
    USENIX Security <br/>
 
 - <sub> [2025] **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** <br/>

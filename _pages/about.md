@@ -22,7 +22,7 @@ redirect_from:
 * <sub> 2025.8-Present: Senior Lecturer </sub>
   * <sub> University of Western Australia </sub>
 
-* <sub> 2022.12-2025.8: Lecturer </sub>
+* <sub> 2023.1-2025.8: Lecturer </sub>
   * <sub> University of Western Australia </sub>
 
 * <sub> 2022.4-2022.12: Research Scientist </sub>
