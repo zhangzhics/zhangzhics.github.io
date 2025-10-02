@@ -9,6 +9,10 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+- <sub> [2025] **Fish and Chips: on the Root Causes of Co-located Website-Fingerprinting Attacks**<br/>
+    Yusi Feng, Sioli O'Connel, Xin Zhang, Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom, Yinqian Zhang, **Zhi Zhang** <br/>
+    IEEE Transactions on Dependable and Secure Computing <br/>
+
 - <sub> [2025] **Fantastic Interrupts and Where to Find Them: Exploiting Non-movable Interrupts on x86**<br/>
     Xin Zhang, Qingni Shen, **Zhi Zhang (co-corresponding author)**, Yansong Gao, Jiajun Zou, Yi Yang, Zhonghai Wu <br/>
     IEEE Transactions on Information Forensics and Security <br/>
