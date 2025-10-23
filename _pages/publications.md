@@ -38,11 +38,11 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
    IEEE Transactions on Neural Networks and Learning Systems <br/>
 
 - <sub> [2025] **AmpereBleed: Exploiting On-chip Current Sensors for Circuit-Free Attacks on ARM-FPGA SoCs** <br/>
-   Xin Zhang, Yi Yang, Jiajun Zou, Qingni Shen1, **Zhi Zhang (co-corresponding author)**, Yansong Gao, Zhonghai Wu, Trevor Carlson <br/>
+   Xin Zhang, Yi Yang, Jiajun Zou, Qingni Shen, **Zhi Zhang (co-corresponding author)**, Yansong Gao, Zhonghai Wu, Trevor Carlson <br/>
    ACM/IEEE Design Automation Conference <br/>
 
 - <sub> [2025] **LeakyDSP: Exploiting Digital Signal Processing Blocks to Sense Voltage Fluctuations in FPGAs** <br/>
-   Xin Zhang, Jiajun Zou1, Yi Yang, Qingni Shen, **Zhi Zhang (co-corresponding author)**, Yansong Gao, Zhonghai Wu, Trevor Carlson <br/>
+   Xin Zhang, Jiajun Zou, Yi Yang, Qingni Shen, **Zhi Zhang (co-corresponding author)**, Yansong Gao, Zhonghai Wu, Trevor Carlson <br/>
    ACM/IEEE Design Automation Conference <br/>
 
 - <sub> [2025] **Decaf: Data Distribution Decompose Attack Against Federated Learning** <br/>
