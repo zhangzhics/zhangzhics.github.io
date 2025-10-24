@@ -13,6 +13,7 @@ author_profile: true
 
 ### Program Committee Member
 - <sub>[2026] The ACM International Conference on Architectural Support for Programming Languages and Operating Systems (Summer Cycle)
+- <sub>[2025] The 58th IEEE/ACM International Symposium on Microarchitecture (ERC)
 - <sub>[2025] The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
 - <sub>[2025] The 20th ACM ASIA Conference on Computer and Communications Security
 - <sub>[2025] The ACM Web Conference 2025 
