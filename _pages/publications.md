@@ -9,6 +9,10 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=pXIJXmwAAAAJ&hl=en) 
 
+- <sub> [2026] **UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution**<br/>
+    Decheng Chen, **Zhi Zhang (co-first author)**, Zhenkai Zhang, Xin Zhang, Yansong Gao, Yi Zou <br/>
+    USENIX Security <br/>
+
 - <sub> [2025] **Fish and Chips: on the Root Causes of Co-located Website-Fingerprinting Attacks**<br/>
     Yusi Feng, Sioli O'Connel, Xin Zhang, Chitchanok Chuengsatiansup, Daniel Genkin, Yuval Yarom, Yinqian Zhang, **Zhi Zhang** <br/>
     IEEE Transactions on Dependable and Secure Computing <br/>

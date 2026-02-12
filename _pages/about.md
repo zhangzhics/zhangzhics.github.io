@@ -14,6 +14,7 @@ redirect_from:
 <sub> I'm a Senior lecturer (equivalent to associate professor in US) in the University of Western Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of hardware security, system security, and their intersections with AI security.
 
 ### News!
+- <sub>Our paper "UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution" has been accepted by USENIX SEC 2026.
 - <sub>Our paper "HyperHammer: Breaking Free from KVM-Enforced Isolation" has been accepted by ASPLOS 2025.
 - <sub>Our paper "Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer" has been accepted by USENIX Security 2025.
 - <sub>Our paper "THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models" has been accepted by USENIX Security 2025.
