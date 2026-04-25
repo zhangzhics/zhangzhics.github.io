@@ -16,11 +16,8 @@ redirect_from:
 ### News!
 
 - <sub>Our paper "Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon" has been accepted by ISCA 2026.
-
 - <sub>Our paper "TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit" has been accepted by ISCA 2026.
-
 - <sub>Our paper "GeForge: Hammering GDDR Memory to Forge GPU Page Tables for Fun and Profit" has been accepted by IEEE S&P 2026.
-
 - <sub>Our paper "UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution" has been accepted by USENIX SEC 2026.
 
 ### Working Experience
