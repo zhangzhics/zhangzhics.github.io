@@ -14,10 +14,14 @@ redirect_from:
 <sub> I'm a Senior lecturer (equivalent to associate professor in US) in the University of Western Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of hardware security, system security, and their intersections with AI security.
 
 ### News!
+
+- <sub>Our paper "Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon" has been accepted by ISCA 2026.
+
+- <sub>Our paper "TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit" has been accepted by ISCA 2026.
+
+- <sub>Our paper "GeForge: Hammering GDDR Memory to Forge GPU Page Tables for Fun and Profit" has been accepted by IEEE S&P 2026.
+
 - <sub>Our paper "UncoreBleed: AEX-Free, High-Resolution, and Low-Noise Side-Channel Attacks on SGX Enclaved Execution" has been accepted by USENIX SEC 2026.
-- <sub>Our paper "HyperHammer: Breaking Free from KVM-Enforced Isolation" has been accepted by ASPLOS 2025.
-- <sub>Our paper "Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer" has been accepted by USENIX Security 2025.
-- <sub>Our paper "THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models" has been accepted by USENIX Security 2025.
 
 ### Working Experience
 * <sub> 2025.8-Present: Senior Lecturer </sub>
@@ -51,6 +55,10 @@ redirect_from:
 * <sub> [2009] National Scholarship, China (Top 3%) </sub>
 
 ### Invited Industrial Talks
+- <sub> [2026] **Silicon Valley's Quiet Leak: Revealing User Activity on macOS for Apple Silicon** <br/>
+   Xin Zhang, **Zhi Zhang**, Chang Liu, Qingni Shen, Trevor E. Carlson <br/>
+   Black Hat Asia <br/>
+
 - <sub> [2020] **A New Rowhammer Technique to Break ALL Existing Defenses** <br/>
    Yueqiang Cheng, **Zhi Zhang** <br/>
    CanSecWest <br/>
