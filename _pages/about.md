@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
  
-<sub> I'm a Senior lecturer (equivalent to associate professor in US) in the University of Western Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of hardware security, system security, and their intersections with AI security.
+<sub> I'm a Senior lecturer (equivalent to associate professor in US) in the University of Western Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of hardware security, system security, and their implications for AI systems.
 
 ### News!
 
