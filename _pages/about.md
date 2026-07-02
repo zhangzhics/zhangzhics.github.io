@@ -14,7 +14,7 @@ redirect_from:
 <sub> I'm a Senior lecturer (equivalent to associate professor in US) in the University of Western Australia. I received my Ph.D. degree in Computer Science from the University of New South Wales, Australia. My research interests are in the areas of hardware security, system security, and their implications for AI systems.
 
 ### News!
-
+- <sub>Our paper "Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon" has received Distinguished Artifact Award in ISCA 2026.
 - <sub>Our paper "Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon" has been accepted by ISCA 2026.
 - <sub>Our paper "TimeGaps Channels: Exploiting CPU Halted Time for Fun and Profit" has been accepted by ISCA 2026.
 - <sub>Our paper "GeForge: Hammering GDDR Memory to Forge GPU Page Tables for Fun and Profit" has been accepted by IEEE S&P 2026.
@@ -40,6 +40,7 @@ redirect_from:
   * <sub> Supervisor: Prof. Yang Xiang </sub>  
 
 ### Prestigious Awards
+* <sub> [2026] ISCA Distinguished Artifact Award </sub>
 * <sub> [2025] USENIX SECURITY Honorable Mention Paper Award </sub>
 * <sub> [2024] USENIX SECURITY Distinguished Paper Award </sub>
 * <sub> [2023] ASIACCS Distinguished Paper Award </sub>

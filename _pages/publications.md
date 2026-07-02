@@ -18,6 +18,7 @@ The full list can be found from my [google scholar](https://scholar.google.com/c
 - <sub> [2026] **Towards Practical Interrupt Side Channel Attacks on macOS for Apple Silicon**<br/>
     Xin Zhang, Chang Liu, Jiajun Zou, Yi Yang, Qingni Shen, **Zhi Zhang (co-corresponding author)**, Trevor E. Carlson <br/>
     International Symposium on Computer Architecture <br/>
+    **Distinguished Artifact Award** <br/>
 
 - <sub> [2026] **GeForge: Hammering GDDR Memory to Forge GPU Page Tables for Fun and Profit**<br/>
     Junpeng Wan, Yanan Guo, **Zhi Zhang**, Zhuo Li, Dave (Jing) Tian, Zhenkai Zhang <br/>
