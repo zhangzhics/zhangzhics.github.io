@@ -12,6 +12,7 @@ author_profile: true
 - <sub> [2025] IEEE Transactions on Dependable and Secure Computing </sub> 
 
 ### Program Committee Member
+- <sub>[2027] The 36th USENIX Security Symposium
 - <sub>[2026] The ACM International Conference on Architectural Support for Programming Languages and Operating Systems (Summer Cycle)
 - <sub>[2025] The 58th IEEE/ACM International Symposium on Microarchitecture (ERC)
 - <sub>[2025] The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
@@ -36,3 +37,7 @@ author_profile: true
 - <sub> [2022] IEEE Transactions on Dependable and Secure Computing </sub> 
 - <sub> [2021] IEEE Transactions on Information Forensics and Security </sub> 
 - <sub> [2020] The 23rd Information Security Conference </sub>
+
+### Other Services
+- <sub> [2026] The 31st Australasian Conference on Information Security and Privacy (Local Arrangement Co-Chair) </sub>
+- <sub> [2024] The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (Workshop Co-Chair) </sub>
