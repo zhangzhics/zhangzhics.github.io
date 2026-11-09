@@ -9,33 +9,34 @@ author_profile: true
 
 
 ### Associate Editor 
-- <sub> [2025] IEEE Transactions on Dependable and Secure Computing </sub> 
+- <sub> [2025-2026] IEEE Transactions on Dependable and Secure Computing </sub> 
 
 ### Program Committee Member
+- <sub>[2027] The 54th International Symposium on Computer Architecture (ISCA)
 - <sub>[2027] The 36th USENIX Security Symposium
-- <sub>[2026] The ACM International Conference on Architectural Support for Programming Languages and Operating Systems (Summer Cycle)
-- <sub>[2025] The 58th IEEE/ACM International Symposium on Microarchitecture (ERC)
-- <sub>[2025] The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
-- <sub>[2025] The 20th ACM ASIA Conference on Computer and Communications Security
-- <sub>[2025] The ACM Web Conference 2025 
-- <sub>[2024] The 19th ACM ASIA Conference on Computer and Communications Security
-- <sub>[2024] The ACM Web Conference 2024 
-- <sub>[2023] The 32nd IEEE Asian Test Symposium
-- <sub>[2023] The 18th ACM ASIA Conference on Computer and Communications Security 
-- <sub>[2022] The 2nd IEEE International Symposium on Secure and Private Execution Environment Design 
-- <sub>[2022] The 20th Australasian Information Security Conference
-- <sub>[2022] The 18th International Conference on Information Systems Security
+- <sub>[2026] The ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS Summer Cycle)
+- <sub>[2025] The 58th IEEE/ACM International Symposium on Microarchitecture (MICRO ERC)
+- <sub>[2025] The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)
+- <sub>[2025] The 20th ACM ASIA Conference on Computer and Communications Security (ASIACCS)
+- <sub>[2025] The ACM Web Conference 2025 (WWW)
+- <sub>[2024] The 19th ACM ASIA Conference on Computer and Communications Security (ASIACCS)
+- <sub>[2024] The ACM Web Conference 2024 (WWW)
+- <sub>[2023] The 32nd IEEE Asian Test Symposium (ATS)
+- <sub>[2023] The 18th ACM ASIA Conference on Computer and Communications Security (ASIACCS)
+- <sub>[2022] The 2nd IEEE International Symposium on Secure and Private Execution Environment Design
+- <sub>[2022] The 20th Australasian Information Security Conference 
+- <sub>[2022] The 18th International Conference on Information Systems Security (ICICS)
 
 ### Invited Reviewer
-- <sub> [2025] IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems </sub> 
-- <sub> [2025] IEEE Transactions on Mobile Computing </sub> 
-- <sub> [2024] IEEE Transactions on Computer </sub> 
-- <sub> [2024] The 29th European Symposium on Research in Computer Security </sub> 
-- <sub> [2023] IEEE Transactions on Dependable and Secure Computing </sub> 
+- <sub> [2025] IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) </sub> 
+- <sub> [2025] IEEE Transactions on Mobile Computing (TMC) </sub> 
+- <sub> [2024] IEEE Transactions on Computer (TC) </sub> 
+- <sub> [2024] The 29th European Symposium on Research in Computer Security (ESORICS) </sub> 
+- <sub> [2023] IEEE Transactions on Dependable and Secure Computing (TDSC) </sub> 
 - <sub> [2022] Journal of Information Security and Applications </sub> 
 - <sub> [2022] ACM Computing Surveys </sub> 
-- <sub> [2022] IEEE Transactions on Dependable and Secure Computing </sub> 
-- <sub> [2021] IEEE Transactions on Information Forensics and Security </sub> 
+- <sub> [2022] IEEE Transactions on Dependable and Secure Computing (TDSC) </sub> 
+- <sub> [2021] IEEE Transactions on Information Forensics and Security (TIFS) </sub> 
 - <sub> [2020] The 23rd Information Security Conference </sub>
 
 ### Other Services

@@ -53,6 +53,10 @@ redirect_from:
 * <sub> [2009] National Scholarship, China (Top 3%) </sub>
 
 ### Invited Industrial Talks
+- <sub> [2026] **The Core Was Suppressed, the Uncore Was Not: Leaking Intel Confidential Computing Secrets from Outside the Core** <br/>
+   Decheng Chen, **Zhi Zhang**, Zhenkai Zhang, Xin Zhang, Yansong Gao, Yi Zou <br/>
+   Black Hat Europe <br/>
+
 - <sub> [2026] **Silicon Valley's Quiet Leak: Revealing User Activity on macOS for Apple Silicon** <br/>
    Xin Zhang, **Zhi Zhang**, Chang Liu, Qingni Shen, Trevor E. Carlson <br/>
    Black Hat Asia <br/>
